@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Fer fromhell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

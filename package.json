@@ -1,0 +1,17 @@
+{
+  "name": "nginxdockertest",
+  "version": "1.0.0",
+  "description": "TEst ngnix docker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Fer fromhell",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  }
+}
