@@ -7,6 +7,6 @@ services:
   client2:
     build: ./client2/
     ports: 
-    - "3456:4200"
+    - "3456:3456"
     links:
     - api
